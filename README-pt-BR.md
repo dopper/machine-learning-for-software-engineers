@@ -1,5 +1,5 @@
 ﻿# Top-down learning path: Machine Learning for Software Engineers
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
+Inspired by [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-ptbr.md).
 
 _Se você gostou deste projeto, por favor me dê uma estrela_ &#9733; _e ajude a divulgar o material._ ;)
 
@@ -202,6 +202,10 @@ Cada dia eu pego um assunto da lista abaixo, leia de capa a capa, tome nota, fa�
 	- [Video only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
 	- [Coursera Machine Learning review](https://rayli.net/blog/data/coursera-machine-learning-review/)
 	- [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
+
+## Recursos
+
+- [Cursos Online de Machine Learning](https://pt-br.classpert.com/machine-learning)
 
 ## Pesquisas
 - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
